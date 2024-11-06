@@ -2,7 +2,7 @@
 //  GameLogView.swift
 //  Snake
 //
-//  Created by Wang Timo on 2024/6/11.
+//  Created by Rickey on 2024/6/11.
 //
 
 import UIKit

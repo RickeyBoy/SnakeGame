@@ -2,7 +2,7 @@
 //  UIScreenExtension.swift
 //  Snake
 //
-//  Created by Wang Timo on 2024/6/13.
+//  Created by Rickey on 2024/6/13.
 //
 
 import UIKit

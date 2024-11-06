@@ -2,7 +2,7 @@
 //  LandUnit.swift
 //  Snake
 //
-//  Created by Wang Timo on 2024/6/12.
+//  Created by Rickey on 2024/6/12.
 //
 
 import UIKit
